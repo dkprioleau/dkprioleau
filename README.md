@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 feel free to look around!
 
 <!--
 **dkprioleau/dkprioleau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
